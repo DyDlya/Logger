@@ -27,7 +27,7 @@ LogRow::LogRow(){
     LogRow::File = "None";
 }
 
-LogRow::LogRow(std::string T, std::string M, std::string F): LogRow::Type(T), LogRow::Message(M), LogRow::File(F){
+LogRow::LogRow(std::string T, std::string M, std::string F): Type(T), Message(M), File(F){
 
 }
 
