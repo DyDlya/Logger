@@ -1,0 +1,4 @@
+#CodeBlock project
+bin
+obj
+*.depend
