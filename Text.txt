@@ -1,0 +1,5 @@
+
+|=============== {START LOG} ===============|
+Time: Thu Jan 26 16:59:13 2023
+
+[CRITICAL]: My test log
